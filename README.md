@@ -48,4 +48,3 @@ This cloned website project is inspired by the original website developed by Bui
 This project is licensed under the MIT License.
 
 ## Video Demo 
-https://gyazo.com/664fda824ce7bfb4d4d113199fc28ee0
