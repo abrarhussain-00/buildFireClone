@@ -21,7 +21,7 @@ This project is a cloned version of the website [BuildFire Custom Mobile App Dev
 ## Getting Started
 
 1. Clone the repository:
-git clone https://abrarhussain_00@bitbucket.org/buildfire/buildfire.git
+git clone https://github.com/abrarhussain-00/buildFireClone.git
 
 2. Install the dependencies for both the front-end and back-end:
 cd buildFire
